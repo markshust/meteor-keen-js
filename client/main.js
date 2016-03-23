@@ -22,10 +22,12 @@ const Welcome = React.createClass({
   },
 
   render() {
-    <div>
-      <div>Hello, {this.props.name}</div>
-      <div id='my-chart'></div>
-    </div>
+    return (
+      <div>
+        <div>Hello, {this.props.name}</div>
+        <div id='my-chart'></div>
+      </div>
+    );
   }
 });
 
