@@ -61,7 +61,6 @@ spacebars@1.0.9-rc.8
 spacebars-compiler@1.0.9-rc.8
 standard-minifier-css@1.0.4-rc.8
 standard-minifier-js@1.0.4-rc.8
-standard-minifiers@1.0.4-rc.8
 templating@1.1.7-rc.8
 templating-tools@1.0.2-rc.8
 tracker@1.0.11-rc.8
